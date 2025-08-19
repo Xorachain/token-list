@@ -1,0 +1,18 @@
+{
+  "chainId": 101,
+  "address": "8KPyuAMM3FhWgN7oBft1CzZnQGHy4yp4vGjbAJcTYuJJ",
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "decimals": 6,
+  "logoURI": "https://file.dexlab.space/file/cecf2c9205b5400588d5204b8ec046e2",
+  "tags": ["stablecoin"],
+  "extensions": {
+    "website": "https://xorachain.ct.ws/xora-usdt/",
+    "whitepaper": "https://xorachain.ct.ws/white-paper/",
+    "telegram": "https://t.me/XORAUSDT",
+    "solscan": "https://solscan.io/token/8KPyuAMM3FhWgN7oBft1CzZnQGHy4yp4vGjbAJcTYuJJ",
+    "dextools": "https://www.dextools.io/app/en/solana/pair-explorer/8vayZdKtaszW73VuMMSUEdJyirfiH6ohdN31E2JHXnnY?t=1754935431160",
+    "birdeye": "https://birdeye.so/token/8KPyuAMM3FhWgN7oBft1CzZnQGHy4yp4vGjbAJcTYuJJ?chain=solana",
+    "jupiter": "https://jup.ag/tokens/8KPyuAMM3FhWgN7oBft1CzZnQGHy4yp4vGjbAJcTYuJJ"
+  }
+}

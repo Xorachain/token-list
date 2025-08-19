@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+  "symbol": "BTC",
+  "name": "BITC0IN",
+  "decimals": 6,
+  "logoURI": "https://file.dexlab.space/file/38ac94c3cacb46a9b0d0203108883478",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://solscan.io/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+    "explorer": "https://birdeye.so/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM?chain=solana"
+  }

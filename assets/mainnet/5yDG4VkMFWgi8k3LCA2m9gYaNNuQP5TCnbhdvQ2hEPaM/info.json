@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+  "symbol": "BTC",
+  "name": "BITC0IN",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://solscan.io/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+    "explorer": "https://solscan.io/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+    "birdeye": "https://birdeye.so/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM?chain=solana",
+    "geckoterminal": "https://www.geckoterminal.com/solana/pools/2dP93ZpoJshL2NBHxRLv5Q42GFxAzLYnJp6joELpUtte"
+  }
+}
